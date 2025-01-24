@@ -100,12 +100,13 @@ text-align: center;
  line-height: 20px;
 }
 .weather-forecast-icon {
-  width: 80px;
+  width: 60px;
 }
 .weather-forecast-temperature {
   text-align: center;
   color: #d3174fea;
-  display: flex;
+  margin-top: 10px;
+  display:flex;
   justify-content: center;
   font-size: 14;
  
