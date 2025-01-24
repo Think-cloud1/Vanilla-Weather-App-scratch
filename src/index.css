@@ -100,8 +100,7 @@ text-align: center;
  line-height: 20px;
 }
 .weather-forecast-icon {
-  text-align: center;
-  font-size: 26px;
+  width: 80px;
 }
 .weather-forecast-temperature {
   text-align: center;
